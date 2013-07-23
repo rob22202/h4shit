@@ -1,4 +1,4 @@
 h4shit
 ======
 
-h4shit will grab a hash list, compare it to a good hash list, a bad hash list, and virustotal.  Only suspect entries are spit out.
+h4shit will grab a md5 list, compare it to a good hash list, a bad hash list, and virustotal.  Supply an input file containing "entry_number \t file_name \t md5" with the -i option.  filename Only suspect entries are spit out.
